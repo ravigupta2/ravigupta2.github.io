@@ -52,7 +52,7 @@ line-height: 8px;font-weight: 500;}
 .headerMenu:nth-child(2){padding-left: 80px;}
 
 /*section1*/
-.section1{background-image: url("./images/bgimages.jpg"); padding-top: 230px;padding-bottom: 140px;}
+.section1{background-image: url("images/bgimages.jpg"); padding-top: 230px;padding-bottom: 140px;}
 .section1Heading span{font-size: 75px;}
 .section1Heading{max-width: 588px;}
 .section1Image{max-width: 714px; vertical-align: top; margin-top: 50px;position: absolute;  right: 76px;}
@@ -60,7 +60,7 @@ line-height: 8px;font-weight: 500;}
 .section1Arange{ width: 50%; margin-right: -4px; padding: 15px;}
 
 /*section2*/
-.section2{background-image: url("./images/Section2.jpg"); padding-top: 90px;padding-bottom: 80px;}
+.section2{background-image: url("images/Section2.jpg"); padding-top: 90px;padding-bottom: 80px;}
 .section2Heading{ text-align: center;}
 .navbar2{padding-top: 40px;}
 .navbar2 ul{margin-right: -4px;}
@@ -76,8 +76,8 @@ line-height: 8px;font-weight: 500;}
 .iconCircle{ font-size: 50px; padding-top: 35px;color: #850e15;}
 .borderClass{ height: 325px; width: 325px; border-radius: 50%;padding-top: 35px;}
 .borderClass img{max-width: 325px;}
-.firstType{ background-image: url("./images/RedTop.png"),url("./images/WhiteBottom.png");background-position:left top,0px bottom;background-repeat: no-repeat;background-size:contain;}
-.secondType{background-image: url("./images/WhiteTop.png"),url("./images/RedBottom.png");background-position:6px 7px,left bottom;background-repeat: no-repeat;background-size: contain;}
+.firstType{ background-image: url("images/RedTop.png"),url("images/WhiteBottom.png");background-position:left top,0px bottom;background-repeat: no-repeat;background-size:contain;}
+.secondType{background-image: url("images/WhiteTop.png"),url("images/RedBottom.png");background-position:6px 7px,left bottom;background-repeat: no-repeat;background-size: contain;}
 .absolute{position: absolute;left: 36px;top: 37px;}
 .firstType .absolute .section2Circle .section2CircleHead::after{content:'';border-bottom: 5px solid #850e15; width: 37px;height:0;margin: 0 auto; position: absolute; left: 43%;}
 .secondType .absolute .section2Circle .section2CircleHead::after{content:'';border-bottom: 5px solid #ffffff; width: 37px;height:0;margin: 0 auto; position: absolute; left: 43%;}
@@ -99,7 +99,7 @@ line-height: 8px;font-weight: 500;}
 .section3Image{max-width: 1200px; margin: 0 auto; padding:120px 60px 0;}
 
 /*section4*/
-.section4{ background-image: url('./images/section4.jpg'); padding-top: 82px; padding-bottom: 65px;}
+.section4{ background-image: url('images/section4.jpg'); padding-top: 82px; padding-bottom: 65px;}
 .overlay {  position: relative; }
 .overlay:before {content: '';width: 100%;height: 100%;position: absolute;background: rgba(5, 19, 45, 0.64);top: 0;left: 0;}
 .overlay > * { position: relative; z-index: 2; }
